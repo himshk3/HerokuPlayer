@@ -6,7 +6,7 @@ Neither this, or PyTgCalls are fully stable.
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bhoomi-s-007/HerokuPlayer/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/himshk3/HerokuPlayer/)
 
 ## Credits
 
